@@ -1,0 +1,102 @@
+
+@media only screen and (min-width:992px){
+#tablet{display: none;}
+    li {display:inline-block;}
+
+    #nav {   padding-top:20px;
+        padding-bottom: 20px;
+    width:100%;}
+    
+    #link1 {margin-left:3% ;}
+    #link2 {margin-left: 2%;}
+     #link3 {margin-left: 48%;}
+     #link4{ margin-left: 2%;margin-right: 2%;}
+    
+ 
+    
+    
+    
+     body{
+         margin: auto;
+         width:95%;
+         height: auto;
+     }
+    #banner {position:relative;
+    width:100%; height: auto;}
+    
+    #banner h1{
+        position:absolute;
+        top: 120px;
+        left:5%;
+        color: white;
+    font-size :50px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    }
+    
+    #banner p {
+         position:absolute;
+         padding-top: 0.5%;
+         top: 190px;
+         left:5%;
+         color:white;
+         font-size :17px;
+        font-family:Arial, Helvetica, sans-serif;
+        font-weight:500;
+    }
+    
+     #banner img {
+         width:100%;
+         height: auto;
+     }
+    
+     
+     #content {background-color:#efefef;}
+    #footer h3 {font-size: 25px;}
+     #footer {background-color:#f7f7f7;
+     padding-bottom: 5%;}
+     #footer p{color:#646448;
+    font-family: Arial, Helvetica, sans-serif;}
+    
+    
+     #content h2 {margin-left :4%;
+        padding-left: 1%;
+        margin-top :-5px;
+        margin-bottom:-7px;
+        padding-top:40px;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 30px;
+    
+        
+       }
+        
+       
+       #content p {margin-left :4%;
+        padding-left: 1%;
+        font-family: Arial, Helvetica, sans-serif;
+        color:#646448;
+        margin-bottom: 3%;
+    
+        
+    }
+    
+    .col-4{display: inline-block;
+        width:30%;
+    height:auto;
+    margin-left: 2.5%;}
+    #desktop div img{display: block;
+    width:100%;
+    height:auto;
+    margin-bottom: 9%;}
+    #footer a{
+    font-weight: bold;
+    }
+    #footer a:hover{color:violet}
+    #footer a{color:#0390fc;}
+    #nav a{
+    font-weight: bold;
+    font-size:medium;
+    color:gray}
+    #nav a:hover{color:springgreen}
+    #nav a{text-decoration:none ;}
+}

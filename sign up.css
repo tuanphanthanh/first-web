@@ -1,0 +1,26 @@
+li {display:inline-block;}
+#nav {   padding-top:10px;
+    padding-bottom: 10px;
+width:100%;}
+
+#link1 {margin-left:1.5% ;}
+#link2 {margin-left: 1%;}
+ #link3 {margin-left: 64%;}   
+ #link4{ margin-left: 1%;margin-right: 1%;}
+ .col{display: inline-block;
+    width:27%;
+height:auto;
+margin-left: 4%;}
+#footer a{text-decoration:none;
+    font-weight: bold;
+    color:#41C5FC}
+    #footer a:hover{color:violet}
+    #nav a{text-decoration: none;
+    font-weight: bold;
+    color:gray}
+    #nav a:hover{color:springgreen}
+#footer{background-color: #efefef;
+margin-top:150px;height:300px
+}
+#sig{margin-top: 100px;}
+.col{margin-top: 20px;}
